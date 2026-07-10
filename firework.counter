@@ -1,0 +1,45 @@
+index.html
+<!DOCTYPE html>
+<html>
+<head>
+<title>@firework.gaming Counter</title>
+
+<style>
+body {
+    background: #000;
+    color: white;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding-top: 100px;
+}
+
+h1 {
+    font-size: 45px;
+}
+
+#followers {
+    font-size: 80px;
+    color: #25F4EE;
+    font-weight: bold;
+}
+
+p {
+    font-size: 25px;
+    color: #aaa;
+}
+</style>
+
+</head>
+
+<body>
+
+<h1>🎵 @firework.gaming</h1>
+
+<div id="followers">
+0
+</div>
+
+<p>TikTok Followers</p>
+
+</body>
+</html>
